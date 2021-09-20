@@ -4,6 +4,7 @@ Quick and dirty tool to scrape auction data from a local aucion place. I don't e
 
 ## Usage
 
+```
 main.py [--json JSON] event_id
 
 positional arguments:
@@ -11,3 +12,4 @@ positional arguments:
 
 optional arguments:
   --json JSON  Save results in json format to [JSON]
+```
